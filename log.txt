@@ -1,0 +1,54 @@
+commit 586c01292ddb19f52674f9a337204fb3a15c789a
+Author: unknown <jmenard@BB316A-07.adit.mines.edu>
+Date:   Wed Apr 27 18:27:42 2016 -0600
+
+    All tests pass
+
+commit 13d915bd9d835858451562af9641f3b3e4bc7576
+Author: unknown <jmenard@BB316A-07.adit.mines.edu>
+Date:   Wed Apr 27 18:23:37 2016 -0600
+
+    Match the board and the schedule
+
+commit eb102ee94a64ec4b3f0578382ed3653a17ce5ab1
+Author: unknown <jmenard@BB316A-07.adit.mines.edu>
+Date:   Wed Apr 27 18:08:32 2016 -0600
+
+    Displays schedule
+
+commit 146d7a21b10859e6ed80c61bc6b96adab822af6b
+Author: unknown <jmenard@BB316B-28.adit.mines.edu>
+Date:   Tue Apr 26 16:52:56 2016 -0600
+
+    Passing all BoardTests
+
+commit 43838a13f9e010e538a752ce83fc910299c6bdda
+Author: unknown <jmenard@BB316B-28.adit.mines.edu>
+Date:   Tue Apr 26 16:43:58 2016 -0600
+
+    Printed board
+
+commit 07840a375fd82da400bb7d16f6d0ad83650d78a5
+Author: unknown <jmenard@BB316B-28.adit.mines.edu>
+Date:   Tue Apr 26 16:18:45 2016 -0600
+
+    Added paintComponent functions
+
+commit 60857d38cda2fab9cc5b04fac22347c668718233
+Merge: d9cc2e7 a440d23
+Author: unknown <jmenard@BB316B-28.adit.mines.edu>
+Date:   Tue Apr 26 15:30:42 2016 -0600
+
+    Merge branch 'master' of https://github.com/JedMenard/FinalProject
+
+commit d9cc2e75e3c463894587dddff67760b18434b983
+Author: unknown <jmenard@BB316B-26.adit.mines.edu>
+Date:   Thu Apr 21 17:13:53 2016 -0600
+
+    Added failing tests
+
+commit a440d23cde18b345b11d42c3d855d4c733b6ef5a
+Author: Jed Menard <jmenard@mymail.mines.edu>
+Date:   Thu Apr 21 15:31:05 2016 -0600
+
+    Initial commit
